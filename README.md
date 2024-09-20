@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Home Lab](https://github.com/Blessing-Ngefor/ActiveDirectoryLab/tree/main)
 - [EDR policiy](https://github.com/joshmadakor1/Algorithms-Practice)
 - [New Users/groups in Entra ID, powershell and Azure CLI ](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Defender for Cloud Apps](https://github.com/joshmadakor1/Algorithms-Practice)
