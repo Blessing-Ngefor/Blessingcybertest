@@ -11,7 +11,7 @@
 
 <h2>Certifications</h2>
 
-- [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google IT Support Professional](file:///G:/My%20Drive/google%20professional%20cybersecurity%20certificate.pdf)
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
